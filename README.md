@@ -1,2 +1,1 @@
-# beginning-bioinformatics
-Beginning bioinformatics course code
+Sairam Reddy MOthe + 1002250374 + BIOL5340-001
