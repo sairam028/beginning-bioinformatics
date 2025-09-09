@@ -1,6 +1,2 @@
-# AI Use Log
-- Tool/model & version:
-- What I asked for:
-- Snippet of prompt(s):
-- What I changed before committing:
-- How I verified correctness (tests, sample data):
+Assignment by Sairam
+I used ChatGPT to verify code snippets and elucidate bioinformatics ideas.  Prior to committing, I verified and updated all outputs.
